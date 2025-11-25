@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/share/1DLkRy257L/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -22,7 +22,7 @@
 ---
 
 ## 🖥️ Tech Stack
-<p align="left">
+<p align="center">
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,12 +39,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbstractYuri&theme=tokyonight" height="150px"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
 
-  <br/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=AbstractYuri&theme=tokyonight&hide_border=true" height="160px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&theme=tokyonight" height="160px"/>
+  <br/><br/>
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 
 </div>
 
@@ -52,12 +56,12 @@
 
 ## ✨ About Me
 - 🎓 Computer Science student  
-- 🌩️ Future Cybersecurity & Cloud Engineer  
-- 💻 Learning cloud development (Linux basics, Networking fundamentals, Docker)  
-- 🔐 Studying cybersecurity & cloud step-by-step   
-  
+- 🌩️ Aspiring **Cybersecurity & Cloud Engineer**  
+- 🐧 Learning Linux, Networking, Docker, Cloud Basics  
+- 🔐 Studying Cybersecurity fundamentals  
+- 💻 Currently building web projects with HTML, CSS, JavaScript  
 
 ---
 
 ## ☕ Let’s Connect
-Feel free to message me on Facebook or email — happy to collaborate!
+<p align="center">Message me anytime — open for collaboration!</p>
