@@ -9,13 +9,13 @@
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.facebook.com/share/1DLkRy257L/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:sorenvladi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01eeb0a817dab03bfb?companyReference=1810479449514680321&mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
@@ -23,14 +23,11 @@
 
 ## 🖥️ Tech Stack
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -38,18 +35,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=AbstractYuri&theme=tokyonight&hide_border=true" height="160px"/>
-
-  <br/><br/>
-
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=AbstractYuri&theme=tokyonight&hide_border=true" height="160px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </div>
 
 ---
@@ -57,11 +46,11 @@
 ## ✨ About Me
 - 🎓 Computer Science student  
 - 🌩️ Aspiring **Cybersecurity & Cloud Engineer**  
-- 🐧 Learning Linux, Networking, Docker, Cloud Basics  
+- 💻 Currently building web projects with HTML, CSS, JS  
+- 🐧 Learning Linux, Networking, and Cloud  
 - 🔐 Studying Cybersecurity fundamentals  
-- 💻 Currently building web projects with HTML, CSS, JavaScript  
 
 ---
 
-## ☕ Let’s Connect
-<p align="center">Message me anytime — open for collaboration!</p>
+## ☕ Let’s Connect  
+<p align="center">Feel free to reach out via Facebook or Email — always open for collaboration!</p>
