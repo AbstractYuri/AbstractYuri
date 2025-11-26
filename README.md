@@ -34,10 +34,27 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=AbstractYuri&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- MAIN STATS -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AbstractYuri&show_icons=true&hide_border=true&theme=transparent&bg_color=1DA1F2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"
+    height="160"
+  />
+
+  <!-- STREAK -->
+  <img 
+    src="https://streak-stats.demolab.com?user=AbstractYuri&hide_border=true&theme=transparent&background=1DA1F2&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"
+    height="160"
+  />
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- TOP LANGS -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&hide_border=true&theme=transparent&bg_color=1DA1F2&title_color=FFFFFF&text_color=FFFFFF"
+    height="160"
+  />
+
 </div>
 
 ---
