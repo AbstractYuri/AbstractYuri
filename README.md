@@ -3,13 +3,13 @@
 
 <!-- MAIN STATS -->
 <img 
-  src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AbstractYuri&show_icons=true&hide_border=true&theme=algolia"
+  src="https://stats.dooboo.io/api/github-stats?login=AbstractYuri&show_icons=true&theme=gruvbox_light"
   height="160"
 />
 
 <!-- STREAK -->
 <img 
-  src="https://streak-stats-github-readme.vercel.app?user=AbstractYuri&theme=algolia&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=AbstractYuri&theme=gruvbox_light&hide_border=true"
   height="160"
 />
 
@@ -17,7 +17,7 @@
 
 <!-- TOP LANGUAGES -->
 <img 
-  src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AbstractYuri&layout=compact&hide_border=true&theme=algolia"
+  src="https://stats.dooboo.io/api/top-langs?login=AbstractYuri&layout=compact&theme=gruvbox_light"
   height="160"
 />
 
